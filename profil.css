@@ -1,0 +1,26 @@
+body {
+    background-image: url(bg.jpg);
+}
+
+.profil {
+   color: white;
+   text-align: center;
+}
+h2 {
+    text-align: center;
+    color: white;
+}
+
+.button {
+    border: 1px solid rgb(231, 229, 85);
+    border-radius: 10px;
+    padding: 5px 10px;
+    margin: 20px 0 auto;
+    text-decoration: none;
+    color: white;
+}
+
+.content {
+    color: white;
+   
+}
