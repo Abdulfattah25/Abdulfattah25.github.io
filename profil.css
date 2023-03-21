@@ -3,24 +3,27 @@ body {
 }
 
 .profil {
-   color: white;
+   color: #aeaeae;
    text-align: center;
-}
-h2 {
-    text-align: center;
-    color: white;
+   
 }
 
-.button {
-    border: 1px solid rgb(231, 229, 85);
-    border-radius: 10px;
-    padding: 5px 10px;
-    margin: 20px 0 auto;
+.profil a {
     text-decoration: none;
-    color: white;
+    color: #aeaeae;
+    border: 1px solid black;
+    padding: 3px;
+    margin: 3px;
+    border-radius: 5px;
 }
+
 
 .content {
-    color: white;
+    color:#aeaeae;
    
+}
+
+.box-img {
+    width: 250px;
+   float: left;
 }
